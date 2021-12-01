@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="7" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15323" started-at="2021-12-01T12:01:23 IST" finished-at="2021-12-01T12:01:38 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15323" started-at="2021-12-01T12:01:23 IST" finished-at="2021-12-01T12:01:38 IST">
+      <class name="APITest.Demo4_TestNG_PostMethod">
+        <test-method status="PASS" signature="create_board()[pri:0, instance:APITest.Demo4_TestNG_PostMethod@136e637]" name="create_board" duration-ms="4474" started-at="2021-12-01T12:01:23 IST" finished-at="2021-12-01T12:01:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_board -->
+        <test-method status="PASS" signature="get_board()[pri:1, instance:APITest.Demo4_TestNG_PostMethod@136e637]" name="get_board" duration-ms="1002" started-at="2021-12-01T12:01:27 IST" finished-at="2021-12-01T12:01:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_board -->
+        <test-method status="PASS" signature="delete_board()[pri:2, instance:APITest.Demo4_TestNG_PostMethod@136e637]" name="delete_board" duration-ms="1218" started-at="2021-12-01T12:01:28 IST" finished-at="2021-12-01T12:01:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_board -->
+      </class> <!-- APITest.Demo4_TestNG_PostMethod -->
+      <class name="APITest.E_commerece">
+        <test-method status="PASS" signature="log_in()[pri:0, instance:APITest.E_commerece@173813a]" name="log_in" duration-ms="3943" started-at="2021-12-01T12:01:30 IST" finished-at="2021-12-01T12:01:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log_in -->
+        <test-method status="PASS" signature="get()[pri:1, instance:APITest.E_commerece@173813a]" name="get" duration-ms="2946" started-at="2021-12-01T12:01:34 IST" finished-at="2021-12-01T12:01:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method status="PASS" signature="delete()[pri:2, instance:APITest.E_commerece@173813a]" name="delete" duration-ms="1684" started-at="2021-12-01T12:01:37 IST" finished-at="2021-12-01T12:01:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+      </class> <!-- APITest.E_commerece -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

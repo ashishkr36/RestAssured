@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11391" started-at="2021-12-01T11:48:44 IST" finished-at="2021-12-01T11:48:56 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11391" started-at="2021-12-01T11:48:44 IST" finished-at="2021-12-01T11:48:56 IST">
+      <class name="APITest.E_commerece">
+        <test-method status="PASS" signature="log_in()[pri:0, instance:APITest.E_commerece@9a3d1d]" name="log_in" duration-ms="6641" started-at="2021-12-01T11:48:44 IST" finished-at="2021-12-01T11:48:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log_in -->
+        <test-method status="PASS" signature="get()[pri:1, instance:APITest.E_commerece@9a3d1d]" name="get" duration-ms="2969" started-at="2021-12-01T11:48:51 IST" finished-at="2021-12-01T11:48:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method status="PASS" signature="delete()[pri:2, instance:APITest.E_commerece@9a3d1d]" name="delete" duration-ms="1717" started-at="2021-12-01T11:48:54 IST" finished-at="2021-12-01T11:48:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+      </class> <!-- APITest.E_commerece -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
